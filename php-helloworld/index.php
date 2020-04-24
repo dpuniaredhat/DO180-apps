@@ -1,4 +1,4 @@
 <?php
 print "Hello, World! php version is " . PHP_VERSION . "\n";
-print "jai baba ki hello next version"
+print "jai baba ki"
 ?>
